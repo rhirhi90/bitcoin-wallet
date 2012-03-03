@@ -29,7 +29,7 @@ import com.google.common.io.BaseEncoding;
 import android.os.Build;
 import android.os.Environment;
 import android.text.format.DateUtils;
-import de.schildbach.wallet_test.R;
+import de.schildbach.wallet.R;
 
 /**
  * @author Andreas Schildbach
